@@ -225,12 +225,6 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 />
 <br />
-
-#
-
----
-
-<h3>Reach Out To Me</h3>
           
 ---
 

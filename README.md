@@ -10,6 +10,13 @@
 
 ---
 
+<h2> Reach Out To Me </h2>
+<a href="https://www.linkedin.com/in/shubham-vishwakarma-j21/">LinkedIn</a>
+</br>
+<a href="sv773460@gmail.com">Gmail</a>
+
+---
+
 <h2>🛠️ Tech Stack </h2>
 
 <img
@@ -228,9 +235,6 @@
           
 ---
 
-<a href="https://www.linkedin.com/in/shubham-vishwakarma-j21/">LinkedIn</a>
-</br>
-<a href="sv773460@gmail.com">Gmail</a>
 <!---
 ShubhamAXS19/ShubhamAXS19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

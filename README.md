@@ -68,14 +68,14 @@
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 />
-<img
+<!-- <img
   align="left"
   alt="java"
   height="50px"
   width="57px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-/>
+/> -->
 
 <img
   align="left"
@@ -133,7 +133,7 @@
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
 />
-<img
+<!-- <img
   align="left"
   alt="java"
   height="50px"
@@ -141,7 +141,7 @@
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
   class="devicon-express-original"
-/>
+/> -->
 
 <img
   align="left"

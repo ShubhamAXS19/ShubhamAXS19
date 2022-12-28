@@ -41,13 +41,15 @@
   <img align="left" alt="java" height="50px" width="57px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="left" alt="java" height="50px" width="57px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></br>
   </section>
-                  
+    </hr>              
           
- <br>
-<h2 color="#fff">Reach Out to Me </h2>
+ </br>
+ 
+
+
 
           
-<h2>Reach Out to Me </h2>
+<h2 style="padding-top:1vh">Reach Out to Me </h2>
 <a href="https://www.linkedin.com/in/shubham-vishwakarma-j21/">LinkedIn</a>
 </br>
 <a href="sv773460@gmail.com">Gmail</a>
